@@ -1,0 +1,5 @@
+a, b = map(int, input().split())
+print("Tổng:", a + b)
+print("Hiệu:", a - b)
+print("Tích:", a * b)
+print("Thương:", round(a / b, 2))

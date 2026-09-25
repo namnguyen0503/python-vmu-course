@@ -1,0 +1,5 @@
+dan_so, ti_le = map(float, input().split())
+nam_1 = dan_so * (1 + ti_le / 100)
+nam_2 = nam_1 * (1 + ti_le / 100)
+print("Sau 1 năm:", round(nam_1))
+print("Sau 2 năm:", round(nam_2))
