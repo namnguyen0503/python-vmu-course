@@ -5,3 +5,8 @@ a=b
 b=temp
 print("a = ",a)
 print("b = ",b)
+
+#C2:
+# a = input()
+# b = input()
+# a, b = b, a
