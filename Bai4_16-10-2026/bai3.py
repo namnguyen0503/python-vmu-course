@@ -7,7 +7,3 @@ for i in range(n):
     if x<0: am+=1
 print("Số lượng số dương: " , duong)
 print("Số lượng số âm:" , am)
-
-
-
-    
